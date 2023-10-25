@@ -1,0 +1,8 @@
+capstone~=4.0.2
+pyelftools~=0.29
+angr==9.2.63
+networkx~=3.1
+monkeyhex~=1.7.4
+angr-utils==0.5.0
+numpy~=1.26.0
+matplotlib~=3.8.0
